@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Geek-Task/static/css/main.82bc7b16.css",
+    "main.js": "/Geek-Task/static/js/main.a42d667c.js",
+    "static/js/592.b94db222.chunk.js": "/Geek-Task/static/js/592.b94db222.chunk.js",
+    "static/media/street suite logo-04.png": "/Geek-Task/static/media/street suite logo-04.cee54732eb3643f9df54.png",
+    "static/media/2.jpg": "/Geek-Task/static/media/2.0c06e43dc16bee6cdfed.jpg",
+    "index.html": "/Geek-Task/index.html",
+    "main.82bc7b16.css.map": "/Geek-Task/static/css/main.82bc7b16.css.map",
+    "main.a42d667c.js.map": "/Geek-Task/static/js/main.a42d667c.js.map",
+    "592.b94db222.chunk.js.map": "/Geek-Task/static/js/592.b94db222.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82bc7b16.css",
+    "static/js/main.a42d667c.js"
+  ]
+}
