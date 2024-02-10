@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    font-family: 'Inter', 'Poppins', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.App{
+    background: $gradiantColor;
+    min-height: 100vh;
+    color: $textColor;
+    font-family: 'Inter','Poppins', sans-serif;
+}
+.css-10hburv-MuiTypography-root,.css-t2cg7x-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root,.css-1c8298b-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root{
+    font-family: 'Poppins', sans-serif !important;
+}
